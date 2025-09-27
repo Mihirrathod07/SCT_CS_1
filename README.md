@@ -11,4 +11,4 @@ Hands-on implementation of cipher algorithms
 Strengthening my problem-solving & cybersecurity fundamentals
 Looking forward to learning more and building stronger skills during this internship!
 
-hashtag#SkillCraftTechnology hashtag#CyberSecurity hashtag#Python hashtag#CaesarCipher hashtag#Internship hashtag#LearningByDoing
+#CyberSecurity #Python #CaesarCipher #Encryption #LearningByDoing
